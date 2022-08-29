@@ -1,3 +1,5 @@
+// solution to longest common prefix
+
 function longestCommonPrefix(arr) {
   if (arr.length < 1 || arr[0] === "") return "";
 
