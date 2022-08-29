@@ -1,1 +1,1 @@
-# Algorithm solution by me
+# Algorithm solutions by me
